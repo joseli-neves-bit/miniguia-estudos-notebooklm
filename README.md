@@ -27,3 +27,8 @@ Ganhar dinheiro sem investir exige criatividade e disciplina. As principais estr
 - "Liste novas plataformas de renda extra digital em 2026."
 - "Explique como aplicar juros compostos em renda extra."
 - "Compare renda extra digital vs presencial."
+
+## NotebookLM
+Este projeto foi desenvolvido e organizado também no NotebookLM.  
+Link direto para o caderno temático: [Acessar NotebookLM](https://notebooklm.google.com/notebook/2256f7a6-232b-4491-a793-029b18213e06)
+
